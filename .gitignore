@@ -34,3 +34,5 @@ replay_pid*
 # Editor-based HTTP Client requests
 /httpRequests/
 /.idea/01-run-java-code-pigin-gh.iml
+/.idea/libraries/KotlinJavaRuntime.xml
+/.idea/kotlinc.xml
